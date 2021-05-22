@@ -1,8 +1,8 @@
- 👋 HI, I'm Gurleen Kaur
- I'm a budding software developer, with a keen interest in web development,creating technology to elevate people and building a community.
- I'm from India, currently living in Chandigarh.
- Currently,improving my python skills ,front end and JS.
- I'm always trying to learn new skills and improving the existing ones. 
+I'm Gurleen Kaur, a Developer.
+
+Being a technology and design enthusiast, I always look forward to grabbing new opportunities. I always feel the need to create something with substance and learn new skills. I am a strong team player and have exceptional organizational skills.
+
+My main areas of interest are Web design and development, UI/UX Design and App development
 
 
 <!---
